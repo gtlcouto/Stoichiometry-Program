@@ -1,0 +1,15 @@
+C:\Users\GCouto\Desktop\StoichiometryProject\StoichiometryApp\bin\Debug\StoichiometryApp.exe.config
+C:\Users\GCouto\Desktop\StoichiometryProject\StoichiometryApp\obj\Debug\StoichiometryApp.csprojResolveAssemblyReference.cache
+C:\Users\GCouto\Desktop\StoichiometryProject\StoichiometryApp\obj\Debug\MainWindow.baml
+C:\Users\GCouto\Desktop\StoichiometryProject\StoichiometryApp\obj\Debug\MainWindow.g.cs
+C:\Users\GCouto\Desktop\StoichiometryProject\StoichiometryApp\obj\Debug\App.g.cs
+C:\Users\GCouto\Desktop\StoichiometryProject\StoichiometryApp\obj\Debug\StoichiometryApp_MarkupCompile.cache
+C:\Users\GCouto\Desktop\StoichiometryProject\StoichiometryApp\obj\Debug\StoichiometryApp.g.resources
+C:\Users\GCouto\Desktop\StoichiometryProject\StoichiometryApp\obj\Debug\StoichiometryApp.Properties.Resources.resources
+C:\Users\GCouto\Desktop\StoichiometryProject\StoichiometryApp\obj\Debug\StoichiometryApp.csproj.GenerateResource.Cache
+C:\Users\GCouto\Desktop\StoichiometryProject\StoichiometryApp\bin\Debug\StoichiometryApp.exe
+C:\Users\GCouto\Desktop\StoichiometryProject\StoichiometryApp\bin\Debug\StoichiometryApp.pdb
+C:\Users\GCouto\Desktop\StoichiometryProject\StoichiometryApp\bin\Debug\StoichiometryLib.dll
+C:\Users\GCouto\Desktop\StoichiometryProject\StoichiometryApp\bin\Debug\StoichiometryLib.pdb
+C:\Users\GCouto\Desktop\StoichiometryProject\StoichiometryApp\obj\Debug\StoichiometryApp.exe
+C:\Users\GCouto\Desktop\StoichiometryProject\StoichiometryApp\obj\Debug\StoichiometryApp.pdb
